@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+*.h5
+*.hdf5
+checkpoints/
+outputs/
+.DS_Store
+*.egg
+wandb/
+*.pt
+*.pth
